@@ -1,0 +1,1 @@
+# plexmusic-rating-sync
