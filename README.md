@@ -19,3 +19,6 @@ Proof of concept currently bi-directionally syncs a 1-10 rating value from the i
 - [ ] Implement pyinstaller build pipeline
 - [ ] Update process?
 - [ ] Test
+
+## FAQ
+Have an idea that you think could help? - Submit an issue to the repo
