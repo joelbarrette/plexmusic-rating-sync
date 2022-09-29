@@ -10,6 +10,10 @@ Proof of concept currently bi-directionally syncs a 1-10 rating value from the i
   - [ ] Plex overrides ID3 Tags (Export Mode)
   - [ ] Never overwrite tags & report conflicts
   - [ ] No tag writing but export intentions (Report Mode)
+- [ ] Implement custom ratings iD3 tag logic
+  - [ ] POPM Tag parsing
+  - [ ] Itunes Rating Tag parsing
+  - [ ] Any others? 
 - [ ] Load settings from cfg file + interactive cli setup kind of like rclone.
   - [ ] Initialize cfg file by requesting token via web UI.
 - [ ] Export process details to log
@@ -22,3 +26,4 @@ Proof of concept currently bi-directionally syncs a 1-10 rating value from the i
 
 ## FAQ
 Have an idea that you think could help? - Submit an issue to the repo
+When will this be ready for general use? - No idea 
