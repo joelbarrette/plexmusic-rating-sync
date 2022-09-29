@@ -25,5 +25,5 @@ Proof of concept currently bi-directionally syncs a 1-10 rating value from the i
 - [ ] Test
 
 ## FAQ
-Have an idea that you think could help? - Submit an issue to the repo
-When will this be ready for general use? - No idea 
++ Have an idea that you think could help? - Submit an issue to the repo
++ When will this be ready for general use? - No idea 
