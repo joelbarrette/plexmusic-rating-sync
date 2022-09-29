@@ -18,6 +18,7 @@ Proof of concept currently bi-directionally syncs a 1-10 rating value from the i
   - [ ] Initialize cfg file by requesting token via web UI.
 - [ ] Export process details to log
   - [ ] Verbosity levels  
+- [ ] Multi-user support
  
 ### Build Phase
 - [ ] Implement pyinstaller build pipeline
