@@ -10,6 +10,7 @@ Proof of concept currently bi-directionally syncs a 1-10 rating value from the i
   - [ ] Plex overrides ID3 Tags (Export Mode)
   - [ ] Never overwrite tags & report conflicts
   - [ ] No tag writing but export intentions (Report Mode)
+- [ ] Look into switching eye3d with [Mutagen](https://mutagen.readthedocs.io/en/latest/) as a python tagging library
 - [ ] Implement custom ratings iD3 tag logic
   - [ ] POPM Tag parsing
   - [ ] Itunes Rating Tag parsing
